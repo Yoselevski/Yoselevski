@@ -5,7 +5,7 @@
          align="right">
 ## Computer Science Student at Ben Gurion University.
 - 🔭 Currently working on new programming projects.
-- 🌱 In free time, learning React and mobile apps building.
+- 🌱 In free time, learning React from Online courses.
 - 👯 Always looking forward to enrich my programming and technical knowledge.
 
 ### 🧰 Languages and Tools:
@@ -27,11 +27,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][4]
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][5]
 
-[1]: https://www.linkedin.com/in/talhazi/
-[2]: mailto:talhazi114@gmail.com
-[3]: https://www.facebook.com/talhazi
-[4]: https://github.com/talhazi
-[5]: http://wa.me/972545556070
+[1]: https://www.linkedin.com/in/yonatan-yoselevski-b53661219/
+[2]: mailto:yoselevskime@gmail.com
+[3]: https://www.facebook.com/yonatan.yoselevski/
+[4]: https://github.com/Yoselevski
+[5]: http://wa.me/972542327104
 
 <details>
     <summary>⚡ Most Used Languages</summary>
